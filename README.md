@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @footcoderr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning BE
+- 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on alone
 - 📫 How to reach me = footcoderr@gmail.com
 
